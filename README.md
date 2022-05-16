@@ -26,3 +26,5 @@ ACSE is a volunteer-run organization that draws its membership from Computer Stu
 Becoming a member of ACSE is free --- just fill in this [form](https://acse.net/mail-list/) and we will send you an invitation. Fees are charged for the annual conference only.
 
 Note: Our old Google Site can be found [here](https://sites.google.com/site/associationforcseducators/).
+
+[Mail List](mail-list.htm)
